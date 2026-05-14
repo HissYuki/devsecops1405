@@ -5,7 +5,7 @@ on:
 
 jobs:
   implantacao:
-    runs on: self-hosted
+    runs-on: self-hosted
     name: "Implantação"
     steps:
       - uses: actions/checkout@v2
