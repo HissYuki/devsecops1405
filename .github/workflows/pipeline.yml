@@ -1,4 +1,4 @@
-nmae: "Implantação"
+name: "Implantação"
 
 on:
   workflow_dispatch:
